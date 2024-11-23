@@ -5,7 +5,18 @@
 }
 
 body {
-  background-image: ;
+  background-image: url(assets/img/bg-image.png);
+  background-size: cover;
+}
+
+#page {
+  width: 800px;
+  padding: 24px;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+  margin: 40px auto 100px;
+  
+
 }
 
 img {
